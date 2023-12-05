@@ -1,6 +1,6 @@
-# Projet Golang Arhitectures Distribuées\n
-------------------- Infos Broker -------------------\n
-Adresse du Broker MQTT : rubensailly.fr\n
+# Projet Golang Arhitectures Distribuées
+------------------- Infos Broker -------------------
+Adresse du Broker MQTT : rubensailly.fr
 Port du Broker MQTT : 1883
 ----------------------------------------------------
 
